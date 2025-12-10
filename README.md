@@ -1,11 +1,11 @@
 Excel Projects Portfolio
 
-This repository contains my Excel tutorials and projects.
-The purpose of this repo is to demonstrate my skills in data cleaning, analysis, formulas, charts, pivot tables, and basic dashboard creation.
+This repository contains my Excel tutorials and practical Excel projects.
+It is designed to demonstrate my skills in data cleaning, data analysis, formulas, charts, pivot tables, and basic dashboard creation.
 
 Tutorials
 
-This folder contains Excel tutorial files covering:
+This folder includes several Excel tutorial files covering essential analytical skills:
 
 Data Cleaning
 
@@ -19,19 +19,19 @@ XLOOKUP
 
 Pivot Tables
 
-See folder: /Tutorials
+Folder link: /Tutorials
 
 Projects
 
-This folder contains a practical Excel project that includes:
+This folder contains a real-world Excel project that focuses on:
 
-Data cleaning
+Cleaning raw data
 
-Pivot table analysis
+Performing pivot table analysis
 
-Sales insights
+Extracting business insights
 
-See folder: /Projects
+Folder link: /Projects
 
 Contact
 
