@@ -1,17 +1,11 @@
-
 📊 Excel Project: Presidential Data Cleaning & Preparation
 
-📌 Project Overview
-
+Project Overview
 This project focuses on cleaning and preparing a dataset containing information about U.S. presidents, their political parties, vice presidents, yearly salary, and timestamps.
 The goal is to transform raw, inconsistent data into a clean, structured, analysis-ready dataset using Microsoft Excel.
-
-📁 Dataset Columns
-
+Dataset Columns
 The dataset contains the following fields:
-
 S.No. – Serial number
-
 president – President's name
 
 party – Political party
